@@ -1,0 +1,83 @@
+Day-01[07-03-2022]:
+===================
+	Good Afternoon to All...
+
+	Python Introduction:
+	====================
+
+	Python Software Downloads:
+	==========================
+		- https://python.org
+		- Select Downloads and then click on windows
+		- It will displays 2 columns such as
+			- stable release 
+			- pre release
+		- We need to download only on stable release softwares because it is not for development purposes to debug
+		- Pre release is used for errors debugging purposes
+		- cntrl + f  to search the python to download particular version
+		- We need to select os bit then we need to download the software
+		- Select "Windows x86-64 executeable installer" for 64 bit os. "Windows x86 executeable installer" for 32 bit os
+		- It will downloads the software wile selecting the file and version
+
+	Python Installation:
+	====================
+		- After downloading we need to double tap on the software
+		- It will displays a window with 2 options and 2 checkboxes
+		- 2 options are:
+			- install now => By default directory locations
+			- customize installation => user defined directory locations
+		- 2 checkboxes
+			- User permissions
+			- Add python 3.x path
+		- We need to select both checkboxes and select "install now" for further installations then finally the software will be installed with some info as "Successfully installed"
+
+	Python Checking:
+	================
+		- cmd
+		- python -V
+
+	Different ways to execute a python programs:
+	============================================
+		- Basic Procedure
+		- Advanced Editors
+		- IDLE
+		- Jupyter notebook
+
+	Basic Procedure:
+	================
+		- Notepad + Interpreter
+		- cmd
+		- python filename.py
+				or
+		- filename.py 
+
+	Advanced Editor:
+	================
+		- Geany,Notepad++,Atom,Sublime,Editplus
+		- Shortcuts to be used for executing python programs
+
+	IDLE -> Integrated Development Learning Environment:
+	====================================================
+		- To create new files and to execute in shell for temporary and permanent file storage
+
+	Pip Version:
+	============
+		- To install third party packages [jupyter,numpy,pandas]
+		- cmd
+		- pip -V
+		- pip install "packagename"
+	
+	Pip Upgrade:
+	============
+		- cmd
+		- python -m pip install --upgrade pip
+
+	Jupyter notebook Installation:
+	==============================
+		- cmd
+		- pip install jupyter notebook
+
+	Jupyter notebook running:
+	=========================
+		- cmd
+		- jupyter notebook
