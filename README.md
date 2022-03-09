@@ -8,3 +8,7 @@
   - Downloading and installation of Jupyter Notebook
   - Variables,Data Types,Input and Output Formatting
   - Typecasting with sample examples on each
+
+## Day-03(09-03-2022):
+  - Brief Explanation of Operators Concept
+  - Conditional Statemnets with sample examples on each
