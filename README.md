@@ -11,4 +11,4 @@
 
 ## Day-03(09-03-2022):
   - Brief Explanation of Operators Concept
-  - Conditional Statemnets with sample examples on each
+  - Conditional Statements with sample examples on each
