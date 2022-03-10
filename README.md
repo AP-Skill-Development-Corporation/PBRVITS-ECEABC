@@ -12,3 +12,6 @@
 ## Day-03(09-03-2022):
   - Brief Explanation of Operators Concept
   - Conditional Statements with sample examples on each
+
+## Day-04(10-03-2022):
+  - Loops and jumping statements with sample examples on each
